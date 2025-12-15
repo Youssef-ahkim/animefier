@@ -152,7 +152,7 @@ export default function Home() {
           <div className="flex gap-6 text-sm">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-            <a href="https://vercel.com/youssef-ahkims-projects/animefier" className="hover:text-white transition-colors">GitHub</a>
+            <a href="https://github.com/Youssef-ahkim/animefier" className="hover:text-white transition-colors">GitHub</a>
           </div>
         </div>
       </footer>
