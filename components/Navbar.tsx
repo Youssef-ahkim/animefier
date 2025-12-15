@@ -10,7 +10,7 @@ export default function Navbar() {
 
             <div className="flex items-center gap-4">
                 <a
-                    href="https://vercel.com/youssef-ahkims-projects/animefier"
+                    href="https://github.com/Youssef-ahkim/animefier"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 text-neutral-400 hover:text-white transition-colors"
