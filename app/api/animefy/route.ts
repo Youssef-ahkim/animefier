@@ -40,7 +40,7 @@ export async function POST(request: Request) {
         ]);
 
         const description = result.response.text();
-        console.log("3. Gemini Analysis:", description);
+        console.log("3. Gemini Analysis :", description);
 
         // 4. Generate Art URL (Pollinations)
         // We add 'anime style' keywords to the Gemini description
